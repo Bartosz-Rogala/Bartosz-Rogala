@@ -1,6 +1,7 @@
-### Hello there, I'm Bartosz Rogala 👋
+## Hello there, I'm Bartosz Rogala 👋
+### Have a look at my Github 
 
-## I have masters degree in Data Analysis - Big Data, but I'm aspiring Java developer.
+### I have a Masters degree in Data Analysis - Big Data, but I'm aspiring Java developer.
 - 🌱 I'm currently learning all thing java
 - 🔭 I really appreciate and recommend to everyone: MOOC.fi and Hyperskill
 - 👯 I’m looking for job as a junior Java developer
