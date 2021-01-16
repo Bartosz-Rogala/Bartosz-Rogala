@@ -1,11 +1,16 @@
 ## Hello there, I'm Bartosz Rogala 👋
 ### Have a look at my Github 
 
-### I have a Masters degree in Data Analysis - Big Data, but I'm an aspiring Java developer.
-- 🌱 I'm currently learning all thing java
-- 🔭 I really appreciate and recommend to everyone: MOOC.fi and Hyperskill
+### I'm a Java Developer with Masters degree in Data Analysis - Big Data
+- 🌱 I love and focus on Java and Spring, but for my projects I also use: JavaScript, React, CSS, HTML
+- 🔭 Learning resources I've used and recommend to everyone: MOOC.fi and Hyperskill (and Books!)
 - 👯 I’m looking for job as a junior Java developer
 - ⚡ Fun fact about me: love woodworking and video creation
+
+### Check out some of my projects:
+- [D&D Character Creator](https://github.com/Bartosz-Rogala/DnD-Character-Creator)
+- [Maze Solver](https://github.com/Bartosz-Rogala/Maze-Solver)
+- [Asteroids!](https://github.com/Bartosz-Rogala/Asteroids)
 
 ### Connect with me:
 
