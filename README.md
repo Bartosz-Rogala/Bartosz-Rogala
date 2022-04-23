@@ -4,7 +4,6 @@
 ### I'm a Java Developer with Masters degree in Data Analysis - Big Data
 - 🌱 I love and focus on Java and Spring, but for my projects I also use: JavaScript, React, CSS, HTML
 - 🔭 Learning resources I've used and recommend to everyone: MOOC.fi and Hyperskill (and Books!)
-- 👯 I’m looking for job as a junior Java developer
 - ⚡ Fun fact about me: love woodworking and video creation
 
 ### Check out some of my projects:
